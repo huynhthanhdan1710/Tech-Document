@@ -71,3 +71,36 @@ Y như Linux hosting nhưng nằm ở bên Thái Lan và Singapore thôi.
 ### 2.6 Windown hosting
  Con host này đặc biệt nhất bên mình vì đây là con host duy nhất hỗ trợp ASP.Net kết hợp plesk Panel trừ khi code của khách yêu cầu ASP.Net và chạy MSSQL ( Microsoft SQL server )  thì mới oder gói này thôi.
 
+## ***3. EMAIL***
+### **3.1 Email hosting***
+Dịch vụ này gửi mail bằng tên miền. Sau khi đăng ký cần trỏ record để có thể gửi mail.
+
+Dịch vụ này sử dụng chugn với các khách hàng khác nên có thể bị ảnh hưởng với các KH khác nhau. 
+
+Dịch vụ này xây dưng trên nền tẳng Cpanel Mail only.
+
+Đối với dịch vụ này thì số lượng mail gửi đi là khôgn quá 300 mail/h đối với 1 mail. Và sốn lượng mail tạo ra hay tổng số lượng mail gửi đi không được quá gói đã qy định.
+
+Đối với dịch vụ mail này ***Khách hàng không được sử dụng để gửi mail marketing*** . Mail maketign là loại mail gửi cùng 1 nội dung đến nhièu địa chỉ khác nhau không quan tâm nội dung chứu những gì.
+
+### **3.2 Email Server**
+
+Khác với Email hosting Email server được xây dựng độc lập trên 1 VPS khách hàng có ***toàn quyền quản lý*** từ tạo thêm mail hay quản lý các mail.
+
+Mailserver được xây trên nền tảng Zimbra Server.
+
+Tương tự dịch vụ mail hosting, số lượng mail gửi đi không được quá giới hạn gói đã mua.
+
+Đói với dịch vụ mail này rất khó quản lý việc gửi mail mkt tuy nhiên khách hàng vẫn không được quyền gửi mail mkt.
+
+### **3.3 Email Maketting**
+
+Dịch vụ này được xây để gửi mail marketign cho khách hàng, khách hàng khi dăng kí cần cung cấp 1 email sending để có thể kchs hoạt.
+
+Việc Import danh sách chiến dịch gửi mail có thể tự làm hoặc gửi danh sách qua PKT để PKT lọc và tiến hành import giúp.
+
+Việc gửi có vào spam hay khogn tùy thuộc vào nội dung của mail gửi đi nếu có nhiêudf từ khóa liên quan đến quảng cáo thì sẽ vào mục quảng cáo, còn không thì sẽ vào ib như bình thường.
+## **4. Dịch Vụ khác**
+ ### 4.1 Public cloud
+
+ 
